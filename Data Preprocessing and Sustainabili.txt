@@ -1,0 +1,19 @@
+Data Preprocessing and Sustainability
+Preliminary Test
+Preprocessing Step
+Handling Missing values
+How to impute missing values :
+mean imputing 
+Normalization or Scaling :Scaling only for numerical Colloumns
+There are two types of Sacling
+1. Standard Scaling
+2. Min max Scaling
+
+Checking for Out Layers-only for numerical Colloumns
+Popular Plot:
+Box Plot imported from C bar
+ Steps of Encodeing:
+Audinal Encodeing
+Label Encodeing
+Frequency Encodeing
+One Heart Encodeing(imp)
